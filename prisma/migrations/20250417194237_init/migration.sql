@@ -1,0 +1,11 @@
+-- CreateTable
+CREATE TABLE "Goal" (
+    "id" TEXT NOT NULL,
+    "title" TEXT NOT NULL,
+    "type" TEXT NOT NULL,
+    "target" DOUBLE PRECISION NOT NULL,
+    "progress" DOUBLE PRECISION NOT NULL DEFAULT 0,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT "Goal_pkey" PRIMARY KEY ("id")
+);

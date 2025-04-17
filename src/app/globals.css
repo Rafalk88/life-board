@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-primary: #5BA186,
+  --color-secondary: #4A90E2,
+  --color-background: #FAFAFA,
+  --color-card: #F1F1F1,
+  --color-text: #2D2D2D,
+  --color-muted: #8B8B8B,
+  --color-success: #A3D9A5,
+  --color-danger: #E57373,
+}
+
+:root {
+}
+
+.dark {
+}
+
+@layer base {
+}
