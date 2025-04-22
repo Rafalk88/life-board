@@ -152,6 +152,18 @@ After running the project locally, you will see a dashboard with tabs at the top
 
 ---
 
+## 📋 Changelog
+
+### [0.2.0] — 2025-04-22
+
+- 🎯 Initial MVP is complete and deployable
+- 💡 Implemented Goals, JobOffers, Finances, EmergencyFund, Notes tabs
+- 🔄 Database schema defined using Prisma
+- 🌐 PostgreSQL + Prisma ORM integration
+- 🚀 Deployed to Vercel
+
+---
+
 ## 🧠 Author
 
 Created with passion by **Rafał Kochanecki**
