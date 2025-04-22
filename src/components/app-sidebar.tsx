@@ -21,7 +21,6 @@ import {
 import Link from 'next/link';
 import Image from 'next/image';
 
-// Menu items.
 const items = [
   {
     title: 'Home',
