@@ -56,7 +56,7 @@ const items = [
 
 export function AppSidebar() {
   return (
-    <Sidebar>
+    <Sidebar collapsible='icon'>
       <SidebarHeader className='flex justify-center items-center'>
         <Link href='/'>
           <Image
