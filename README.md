@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)
 
-**LifeBoard** is a modern web application that helps users manage personal and professional goals, finances, savings, and the job application process. It uses a modern tech stack (Next.js, PostgreSQL, Prisma, Kshadcn, Chart.js) and features an intuitive tab-based interface.
+**LifeBoard** is a modern web application that helps users manage personal and professional goals, finances, savings, and the job application process. It uses a modern tech stack (Next.js, PostgreSQL, Prisma, shadcn, Chart.js) and features an intuitive tab-based interface.
 
 🔗 **Live Demo:** [https://life-board.vercel.app](https://life-board.vercel.app)
 
