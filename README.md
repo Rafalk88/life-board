@@ -1,5 +1,7 @@
 # 💼 LifeBoard — Application for Goal, Job, and Finance Management
 
+![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)
+
 **LifeBoard** is a modern web application that helps users manage personal and professional goals, finances, savings, and the job application process. It uses a modern tech stack (Next.js, PostgreSQL, Prisma, Kshadcn, Chart.js) and features an intuitive tab-based interface.
 
 🔗 **Live Demo:** [https://life-board.vercel.app](https://life-board.vercel.app)
@@ -153,6 +155,13 @@ After running the project locally, you will see a dashboard with tabs at the top
 ---
 
 ## 📋 Changelog
+
+### [0.3.0] — 2025-04-26
+
+- 📚 Added landing page initial structure
+- 📂 Implemented collapsible sidebar with state persistence (cookie storage)
+- 🎨 Improved user experience in navigation
+- 🛠 Minor UI refinements and structure updates
 
 ### [0.2.0] — 2025-04-22
 
